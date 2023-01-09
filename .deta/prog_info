@@ -1,0 +1,1 @@
+{"id":"014e5a93-66c0-4ba1-a993-e11bdab87afb","space":2769,"runtime":"nodejs14.x","name":"mydetaYoutube","path":"odsmgc","project":"a0a1gvu6","account":"144798365827","region":"ap-southeast-1","deps":["express@^4.18.2","deta@^1.1.0"],"envs":null,"public":true,"log_level":"off","cron":""}
